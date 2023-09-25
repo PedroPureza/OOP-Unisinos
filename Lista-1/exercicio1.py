@@ -16,7 +16,3 @@ class Mago:
   def checar_nivel(self):
     print(f'Você está no nível {self.nivel}')
 
-mago = Mago(2, 120)
-mago.checar_nivel()
-mago.upar_nivel()
-mago.checar_nivel()
