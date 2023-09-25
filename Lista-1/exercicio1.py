@@ -18,3 +18,5 @@ class Mago:
 
 mago = Mago(2, 120)
 mago.checar_nivel()
+mago.upar_nivel()
+mago.checar_nivel()
